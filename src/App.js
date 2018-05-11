@@ -12,8 +12,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<WorkIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">9 days</h4>
+        <h3 className="vertical-timeline-element-title">9 days</h3>
         <p>
           Learning and Exploring technologies.
         </p>
@@ -24,8 +23,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<WorkIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">8 days</h4>
+        <h3 className="vertical-timeline-element-title">8 days</h3>
         <p>
           Generating the appropriate OS and flashing the Android Things SOM onto NXPico.
         </p>
@@ -36,8 +34,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<WorkIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">6 days</h4>
+        <h3 className="vertical-timeline-element-title">6 days</h3>
         <p>
           Assembling the devices and using the camera module to capture images.
         </p>
@@ -48,8 +45,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<WorkIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">7 days</h4>
+        <h3 className="vertical-timeline-element-title">7 days</h3>
         <p>
           Creating a TensorFlow Project and use Trained models.
         </p>
@@ -60,8 +56,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">7 days</h4>
+        <h3 className="vertical-timeline-element-title">7 days</h3>
         <p>
           Creating a Dialogue Flow project and setting up instances and entities.
         </p>
@@ -72,8 +67,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">7 days</h4>
+        <h3 className="vertical-timeline-element-title">7 days</h3>
         <p>
           Sending captured images to TensorFlow and classifying objects in images.
         </p>
@@ -84,8 +78,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">8 days</h4>
+        <h3 className="vertical-timeline-element-title">8 days</h3>
         <p>
           Processing objects found in images and sending received responses to audio jack.
         </p>
@@ -96,8 +89,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">5 days</h4>
+        <h3 className="vertical-timeline-element-title">5 days</h3>
         <p>
           Testing and optimising hardware.
         </p>
@@ -108,8 +100,7 @@ class App extends Component {
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
-        <h3 className="vertical-timeline-element-title">Appropriate heading for the content</h3>
-        <h4 className="vertical-timeline-element-subtitle">5 days</h4>
+        <h3 className="vertical-timeline-element-title">5 days</h3>
         <p>
           Experimenting with additional features.
         </p>
