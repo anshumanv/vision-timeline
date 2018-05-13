@@ -53,7 +53,7 @@ class App extends Component {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="JUNE 14, 2018 - JUNE 20, 2018"
-          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
         <h3 className="vertical-timeline-element-title">7 days</h3>
@@ -64,7 +64,7 @@ class App extends Component {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="JUNE 21, 2018 - JUNE 27, 2018"
-          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
         <h3 className="vertical-timeline-element-title">7 days</h3>
@@ -75,7 +75,7 @@ class App extends Component {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="JUNE 28, 2018 - JULY 5, 2018"
-          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
         <h3 className="vertical-timeline-element-title">8 days</h3>
@@ -86,7 +86,7 @@ class App extends Component {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="JULY 6, 2018 - JULY 10, 2018"
-          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
         <h3 className="vertical-timeline-element-title">5 days</h3>
@@ -97,7 +97,7 @@ class App extends Component {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="JULY 11, 2018 - JULY 15, 2018"
-          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           // icon={<SchoolIcon />}
         >
         <h3 className="vertical-timeline-element-title">5 days</h3>
