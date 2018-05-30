@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
+import { FaCheck } from 'react-icons/lib/fa';
 
 class App extends Component {
   render() {
@@ -10,7 +11,7 @@ class App extends Component {
           className="vertical-timeline-element--work"
           date="MAY 15, 2018 - MAY 23, 2018"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          // icon={<WorkIcon />}
+          icon={<FaCheck />}
         >
         <h3 className="vertical-timeline-element-title">9 days</h3>
         <p>
@@ -21,7 +22,7 @@ class App extends Component {
           className="vertical-timeline-element--work"
           date="May 24, 2018 - MAY 31, 2018"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          // icon={<WorkIcon />}
+          icon={<FaCheck />}
         >
         <h3 className="vertical-timeline-element-title">8 days</h3>
         <p>
