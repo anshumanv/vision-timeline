@@ -33,7 +33,7 @@ class App extends Component {
           className="vertical-timeline-element--work"
           date="JUNE 1, 2018 - JUNE 6, 2018"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          // icon={<WorkIcon />}
+          icon={<FaCheck />}
         >
         <h3 className="vertical-timeline-element-title">6 days</h3>
         <p>
