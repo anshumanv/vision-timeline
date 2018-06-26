@@ -44,7 +44,7 @@ class App extends Component {
           className="vertical-timeline-element--work"
           date="JUNE 7, 2018 - JUNE 13, 2018"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          // icon={<WorkIcon />}
+          icon={<FaCheck />}
         >
         <h3 className="vertical-timeline-element-title">7 days</h3>
         <p>
@@ -55,11 +55,11 @@ class App extends Component {
           className="vertical-timeline-element--education"
           date="JUNE 14, 2018 - JUNE 20, 2018"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          // icon={<SchoolIcon />}
+          icon={<FaCheck />}
         >
         <h3 className="vertical-timeline-element-title">7 days</h3>
         <p>
-          Creating a Dialogue Flow project and setting up instances and entities.
+          Learning about Transfer Learning to add more datasets to the existing models.
         </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
